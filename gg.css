@@ -1,0 +1,39 @@
+.p-1 {
+  text-align: center;
+}
+.p-3 {
+  text-align: right;
+}
+.h-2 {
+  text-align: center;
+}
+.h-3 {
+  text-align: right;
+}
+.P4 {
+  border: 10px black solid;
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+  background-color: blue;
+}
+.P6 {
+  border: 10px green solid;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+.P5 {
+  background-color: green;
+  /* border: 10px green solid; */
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+}
+.P9 {
+  background-color: green;
+  border-radius: 50%;
+  height: 100px;
+  width: 50%;
+}
